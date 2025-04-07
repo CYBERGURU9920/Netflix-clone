@@ -18,3 +18,7 @@ A responsive Netflix homepage clone using only HTML and CSS.
 (Add Vercel/Netlify link after deploying)
 
 ## 📁 Folder Structure
+
+
+## 🔗 Live Demo  
+[Click here to view the project](https://netflix-clone-gamma-teal.vercel.app/)
